@@ -1,7 +1,7 @@
 
 # pecan
 
-![Screenshot 3](/screenshots/1.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/vanillasoap/pecan/master/screenshots/1.png)
 
 A bar for macOS. Reports — by default — the current workspace, cpu load, network bandwidth, date, battery percentage and time.
 
