@@ -1,0 +1,4 @@
+#!/usr/local/bin/zsh
+# depends on iStats
+
+/usr/local/bin/istats cpu temp --no-label --no-graph
